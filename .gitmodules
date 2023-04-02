@@ -1,0 +1,35 @@
+[submodule "sr_core"]
+	path = sr_core
+	url = https://github.com/shadow-robot/sr_core.git
+	branch = noetic-devel
+[submodule "sr_common"]
+	path = sr_common
+	url = https://github.com/shadow-robot/sr_common.git
+	branch = noetic-devel
+[submodule "sr_interface"]
+	path = sr_interface
+	url = https://github.com/shadow-robot/sr_interface.git
+	branch = noetic-devel
+[submodule "ros_ethercat"]
+	path = ros_ethercat
+	url = https://github.com/shadow-robot/ros_ethercat.git
+	branch = noetic-devel
+[submodule "ros_ethercat_eml"]
+	path = ros_ethercat_eml
+	url = https://github.com/shadow-robot/ros_ethercat_eml.git
+	branch = noetic-devel
+[submodule "sr-ros-interface-ethercat"]
+	path = sr-ros-interface-ethercat
+	url = https://github.com/shadow-robot/sr-ros-interface-ethercat.git
+	branch = noetic-devel
+[submodule "ros_controllers"]
+	path = ros_controllers
+	url = https://github.com/ros-controls/ros_controllers.git
+	branch = noetic-devel
+[submodule "common_resources"]
+	path = common_resources
+	url = https://github.com/shadow-robot/common_resources.git
+	branch = noetic-devel
+[submodule "four_wheel_steering_msgs"]
+	path = four_wheel_steering_msgs
+	url = https://github.com/ros-drivers/four_wheel_steering_msgs.git
