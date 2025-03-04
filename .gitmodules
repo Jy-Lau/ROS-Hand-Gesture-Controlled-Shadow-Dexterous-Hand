@@ -18,10 +18,6 @@
 	path = ros_ethercat_eml
 	url = https://github.com/shadow-robot/ros_ethercat_eml.git
 	branch = noetic-devel
-[submodule "sr-ros-interface-ethercat"]
-	path = sr-ros-interface-ethercat
-	url = https://github.com/shadow-robot/sr-ros-interface-ethercat.git
-	branch = noetic-devel
 [submodule "ros_controllers"]
 	path = ros_controllers
 	url = https://github.com/ros-controls/ros_controllers.git
@@ -30,6 +26,3 @@
 	path = common_resources
 	url = https://github.com/shadow-robot/common_resources.git
 	branch = noetic-devel
-[submodule "four_wheel_steering_msgs"]
-	path = four_wheel_steering_msgs
-	url = https://github.com/ros-drivers/four_wheel_steering_msgs.git
