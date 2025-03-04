@@ -17,6 +17,10 @@ This ROS1 Noetic project serves as a proof of concept to hand gesture controlled
 
 ## Installation
 This section provide guidance on how to setup my ROS1 Noetic application.
+### Prerequisites
+Please install **ROS Noetic Desktop Full** in an Ubuntu VM by following the official installation guide: 🔗 **[ROS Noetic Installation Guide](https://wiki.ros.org/noetic/Installation/Ubuntu)**
+You may also use setup Docker on your own.
+### Steps
 1. Create a ROS workspace:
 ```bash
   mkdir ros_ws
