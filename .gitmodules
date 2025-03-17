@@ -26,3 +26,7 @@
 	path = common_resources
 	url = https://github.com/shadow-robot/common_resources.git
 	branch = noetic-devel
+[submodule "four_wheel_steering_msgs"]
+	path = four_wheel_steering_msgs
+	url = https://github.com/ros-drivers/four_wheel_steering_msgs.git
+	branch = master
