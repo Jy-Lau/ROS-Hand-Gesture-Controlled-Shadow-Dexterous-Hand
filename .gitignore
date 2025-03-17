@@ -46,15 +46,15 @@ qtcreator-*
 
 # Emacs
 .#*
-common_resources/
-four_wheel_steering_msgs/
-ros_controllers/
-ros_ethercat/
-ros_ethercat_eml/
-sr-ros-interface-ethercat/
-sr_common/
-sr_core/
-sr_interface/
-sr_utils/
+!common_resources/.git
+!four_wheel_steering_msgs/.git
+!ros_controllers/.git
+!ros_ethercat/.git
+!ros_ethercat_eml/.git
+!sr-ros-interface-ethercat/.git
+!sr_common/.git
+!sr_core/.git
+!sr_interface/.git
+!sr_utils/.git
 # Catkin custom files
 CATKIN_IGNORE
